@@ -1,0 +1,9 @@
+POST http://127.0.0.1:8000/api/products HTTP/1.1
+Accept: application/json
+Content-Type: application/json
+Authorization: Bearer 1|OEPDXtyIx3YkfoliO85ap8e7W55u3YlWv0Qnhoz2
+
+{
+    "name":"laptop",
+    "details":"this is just for testing the product model"
+}
