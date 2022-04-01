@@ -4,6 +4,6 @@ Content-Type: application/json
 Authorization: Bearer 1|OEPDXtyIx3YkfoliO85ap8e7W55u3YlWv0Qnhoz2
 
 {
-    "name":"laptop",
+    "name":"laptop 1",
     "details":"this is just for testing the product model"
 }
